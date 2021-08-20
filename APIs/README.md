@@ -1,7 +1,7 @@
 These are a few examples of some APIs that are available from SecureCloud (Kubernetes only)
 There is a swagger reference for the SecureCloud APIs here. https://securecloud.tufin.io/api-documentation/index.html
 
-    **Make sure that you have jq and curl installed.
+    ** Make sure that you have jq and curl installed **
 
 Each bash script will prompt you for the login information to your SecureCloud tenant and will then pull the required access token to perform the API.
 
